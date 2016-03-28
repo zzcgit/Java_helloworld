@@ -1,5 +1,5 @@
-language:java
+language: java
 jdk:
- - orcale jdk 8
- - orcale jdk 7
- - openjdk 6
+  - oraclejdk7
+  - openjdk7
+  - openjdk6
