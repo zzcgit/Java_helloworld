@@ -1,7 +1,6 @@
 language: java
 sudo: false
-
-install:ant deps
+install: ant deps
 jdk:
   - oraclejdk7
   - openjdk7
