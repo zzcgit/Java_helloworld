@@ -2,4 +2,4 @@ language:java
 jdk:
  - orcale jdk 8
  - orcale jdk 7
- - open jdk 6
+ - openjdk 6
